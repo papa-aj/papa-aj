@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm papa-aj</h1>
-<h3 align="center">A passionate frontend developer from somaliland</h3>
+<h3 align="center">A passionate fullstack developer from somaliland</h3>
 
 
 
