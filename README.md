@@ -1,6 +1,6 @@
 🔭 I’m currently not work <br>
 👯 I’m looking to collaborate on <br>
-🤝 I’m looking for my self 😂 because i lost inside program <br>
+🤝 I’m looking for my self  <br>
 🌱 I’m currently learning and getting experience <br>
 💬 what can i help you <br>
 ⚡ i really feel fun in create projects and store github <br>
