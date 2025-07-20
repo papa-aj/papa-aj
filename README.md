@@ -5,21 +5,22 @@
 
 <table style="width:100%;">
   <tr>
-    <td valign="top" style="padding: 20px; width:60%;">
+    <td valign="top" style="padding: 20px; width: 60%;">
       <p align="left">
-        🔭 I’m currently not working <br>
-        👯 I’m looking to collaborate on cool projects <br>
-        🤝 I’m exploring my path and building skills <br>
-        🌱 I’m currently learning and getting experience <br>
-        💬 Let me know how I can help you! <br>
-        ⚡ I really enjoy creating projects and storing them on GitHub <br>
+        🔭 I’m currently not working<br>
+        👯 I’m looking to collaborate on cool projects<br>
+        🤝 I’m exploring my path and building skills<br>
+        🌱 I’m currently learning and getting experience<br>
+        💬 Let me know how I can help you!<br>
+        ⚡ I really enjoy creating projects and storing them on GitHub<br>
       </p>
     </td>
-    <td align="right" style="padding: 20px; width:40%;">
-      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250" />
+    <td align="right" style="padding: 20px; width: 40%;">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250">
     </td>
   </tr>
 </table>
+
 
 
 
