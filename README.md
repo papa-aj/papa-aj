@@ -14,6 +14,14 @@
         💬 Let me know how I can help you!<br>
         ⚡ I really enjoy creating projects and storing them on GitHub<br>
       </p>
+      <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/papa-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="papa-aj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/papa-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="papa-aj" height="30" width="40" /></a>
+<a href="https://fb.com/papa-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="papa-aj" height="30" width="40" /></a>
+<a href="https://instagram.com/papa-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="papa-aj" height="30" width="40" /></a>
+<a href="https://discord.gg/papa-aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="papa-aj" height="30" width="40" /></a>
+</p>
     </td>
     <td align="right" style="padding: 20px; width: 40%;">
       <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="450">
