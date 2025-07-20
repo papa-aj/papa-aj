@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from somaliland</h3>
 
 
-
+    
 
 🔭 I’m currently not work <br>
 👯 I’m looking to collaborate on <br>
@@ -12,7 +12,7 @@
 💬 what can i help you <br>
 ⚡ i really feel fun in create projects and store github <br>
 
-
+<p><img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer"/></p>
 
 
 <h3 align="left">Connect with me:</h3>
