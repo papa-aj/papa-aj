@@ -3,10 +3,10 @@
 <h3 align="center">A passionate frontend developer from somaliland</h3>
 
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td valign="top" width="60%">
-      <p align="left" padding="20px">
+    <td valign="top" style="padding: 20px; width:60%;">
+      <p align="left">
         🔭 I’m currently not working <br>
         👯 I’m looking to collaborate on cool projects <br>
         🤝 I’m exploring my path and building skills <br>
@@ -15,8 +15,8 @@
         ⚡ I really enjoy creating projects and storing them on GitHub <br>
       </p>
     </td>
-    <td align="right" width="40%" padding="20px">
-      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250"/>
+    <td align="right" style="padding: 20px; width:40%;">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250" />
     </td>
   </tr>
 </table>
