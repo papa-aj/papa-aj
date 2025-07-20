@@ -5,7 +5,7 @@
 
 <table style="width:100%;">
   <tr>
-    <td valign="top" style="padding: 20px; width: 60%;">
+    <td valign="top" style="padding: 40px; width: 60%;">
       <p align="left">
         🔭 I’m currently not working<br>
         👯 I’m looking to collaborate on cool projects<br>
@@ -16,7 +16,7 @@
       </p>
     </td>
     <td align="right" style="padding: 20px; width: 40%;">
-      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="450">
     </td>
   </tr>
 </table>
