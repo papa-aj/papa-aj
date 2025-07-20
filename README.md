@@ -43,7 +43,7 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papa-aj&" alt="papa-aj" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=papa-aj&" alt="papa-aj" /></p>
 
 
 
