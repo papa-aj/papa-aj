@@ -3,16 +3,24 @@
 <h3 align="center">A passionate frontend developer from somaliland</h3>
 
 
-<p align="left">
-    
-🔭 I’m currently not work <br>
-👯 I’m looking to collaborate on <br>
-🤝 I’m looking for my self  <br>
-🌱 I’m currently learning and getting experience <br>
-💬 what can i help you <br>
-⚡ i really feel fun in create projects and store github <br>
-</p>
-<p align="right"><img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer"/></p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <p align="left">
+        🔭 I’m currently not working <br>
+        👯 I’m looking to collaborate on cool projects <br>
+        🤝 I’m exploring my path and building skills <br>
+        🌱 I’m currently learning and getting experience <br>
+        💬 Let me know how I can help you! <br>
+        ⚡ I really enjoy creating projects and storing them on GitHub <br>
+      </p>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer" width="250"/>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Connect with me:</h3>
