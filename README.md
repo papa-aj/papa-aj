@@ -12,7 +12,7 @@
 💬 what can i help you <br>
 ⚡ i really feel fun in create projects and store github <br>
 </p>
-<p align="right><img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer"/></p>
+<p align="right"><img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="programmer"/></p>
 
 
 <h3 align="left">Connect with me:</h3>
