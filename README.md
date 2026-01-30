@@ -25,13 +25,10 @@
 
 
 
-
-
-
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey 👋 I'm papa-aj</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,tailwind,sass,graphql,go,rust,python,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,graphql,go,rust,python,aws&theme=dark" alt="tech icons"/>
 </p>
 
 <p align="center">
@@ -76,15 +73,15 @@
 - 💻 Full Stack Developer (React, NestJS, TypeScript)
 - 🚀 Building secure & scalable apps
 - 🔐 Interested in Blockchain & Web3
-- 🤖 Exploring AI-powered systems
-- 🎯 Goal: Senior Engineer / Tech Founder
+- 🤖 Exploring AI & Automation
+- 🎯 Goal: Build impactful software
 
 ---
 
-## 🟩 Contribution Graph (Snake Game)
+## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/papa-aj/papa-aj/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/papa-aj/papa-aj/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---
@@ -92,8 +89,10 @@
 ## ⚙️ Tech Stack
 
 ```text
-Frontend   → React, Next.js, Tailwind, Zustand
+Frontend   → React, Next.js, TailwindCSS, Zustand
 Backend    → Node.js, NestJS, Express
 Database   → PostgreSQL, MongoDB, Redis
 DevOps     → Docker, AWS, GitHub Actions
 Blockchain → Hardhat, Solidity
+AI/ML      → Python, PyTorch
+
