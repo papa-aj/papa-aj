@@ -66,7 +66,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=papa-aj&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 🟩 Contribution Graph (Snake Game)
 
 <p align="center">
-  <img src="https://github.com/papa-aj/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/papa-aj/papa-aj/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
