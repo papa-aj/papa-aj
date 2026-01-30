@@ -21,3 +21,79 @@
 [![](https://visitcount.itsvg.in/api?id=papa-aj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,tailwind,sass,graphql,go,rust,python,aws&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/YOUR_DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/YOUR_DEVTO">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=papa-aj&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=papa-aj&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💻 Full Stack Developer (React, NestJS, TypeScript)
+- 🚀 Building secure & scalable apps
+- 🔐 Interested in Blockchain & Web3
+- 🤖 Exploring AI-powered systems
+- 🎯 Goal: Senior Engineer / Tech Founder
+
+---
+
+## 🟩 Contribution Graph (Snake Game)
+
+<p align="center">
+  <img src="https://github.com/papa-aj/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+```text
+Frontend   → React, Next.js, Tailwind, Zustand
+Backend    → Node.js, NestJS, Express
+Database   → PostgreSQL, MongoDB, Redis
+DevOps     → Docker, AWS, GitHub Actions
+Blockchain → Hardhat, Solidity
