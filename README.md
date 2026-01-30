@@ -96,3 +96,6 @@ DevOps     → Docker, AWS, GitHub Actions
 Blockchain → Hardhat, Solidity
 AI/ML      → Python, PyTorch
 
+
+```
+<p align="center"> <a href="https://buymeacoffee.com/papa-aj"> <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a> </p> 
