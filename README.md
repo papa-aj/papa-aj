@@ -25,26 +25,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=papa-aj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=papa-aj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=papa-aj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
----==================================================================
-
-
-
-
-
-/*
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=papa-aj&show_icons=true&locale=en&layout=compact" alt="papa-aj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=papa-aj&show_icons=true&locale=en" alt="papa-aj" /></p>
-*/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=papa-aj&" alt="papa-aj" /></p>
 
